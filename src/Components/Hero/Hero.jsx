@@ -11,8 +11,7 @@ const ImageList = [
     img: Image1,
     title: "Upto 50% off on all Men's Wear ",
     description: 
-    
-    },
+    }
 ]
 
 
