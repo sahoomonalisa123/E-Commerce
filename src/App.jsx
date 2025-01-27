@@ -3,6 +3,7 @@ import "aos/dist/aos.css";
 import { useEffect, useState } from "react";
 import Banner from "./Components/Banner/Banner";
 import Navbar from "./Components/Navbar/Navbar";
+import Hero from "./Components/Hero/Hero";
 
 function App() {
      const [ orderPopup, setOrderPopup] = useState(false);
