@@ -9,7 +9,7 @@ const ImageList = [
   {
     id: 1,
     img: Image1,
-    title: "Upto 50% off on all Men's Wear ",
+    title: "Upto 60% off on all Men's Wear ",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, inventore ipisicing elit. Quia, inventoipisicing elit. Quia, inventoipisicing elit. Quia, inventoipisicing elit. Quia, inventoipisicing elit. Quia, invento.",
   },
