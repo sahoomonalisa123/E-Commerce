@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import Banner from "./Components/Banner/Banner";
 import Navbar from "./Components/Navbar/Navbar";
 import Hero from "./Components/Hero/Hero";
+import Products from "./Components/Products/Products";
 
 function App() {
      const [ orderPopup, setOrderPopup] = useState(false);
