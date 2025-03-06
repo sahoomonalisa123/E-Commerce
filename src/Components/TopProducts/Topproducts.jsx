@@ -38,14 +38,14 @@ const Topproducts = ({handleOrderPopup}) => {
                  atque deserunt placeat. Ullam numquam fuga illum quis amet sequi neque accusantium
                  tempore, provident saepe obcaecati nesciunt?
             </p>
-            <div>
+            <div className='mt-24'>
                 <div className="grid grid-cols-1 sm:grid-cols-2
                 md:grid-cols-3 gap-20 md:gap-5 place-items-center">
                     {ProductsData.map((data) => (
                         <div
                         data-aos="zoom-in"
                         className="rounded-2xl text-center bg-whitedark:bg-gray-800 hover:bg-black/80
-                        dark:hover:bg-primary hover:text-whiterelative shadow-xl duration-300 group max-w-[300px]">
+                        dark:hover:bg-primary hover:text-whiterelative shadow-xl duration-300 group max-w-[300px] pb-4">
                             <div>
                                 <img src={data.img} alt=""
                                  className="max-w-[140px] block mx-auto transfrom -translate-y-20 group-hover:scale-105 duration-300 drop-shadow-md"
